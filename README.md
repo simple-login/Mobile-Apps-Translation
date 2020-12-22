@@ -9,12 +9,22 @@ Each language has it own folder with 2 files:
 
 They both contain the same set of keys. Please respect the key order and modify only the translated texts.
 
-Some of the texts are to be interpolated in runtime, so please pay attention to the placeholder and do not change their format (`%@` for iOS and `%1$d` for Android).
+Some of the texts are to be interpolated in runtime, so please pay attention to the placeholder and do not change their format (`%@` for iOS and `%1$s` for Android).
 
 #### Add a new language
 - Make sure to name the folder with this format `<iso code>-<english name>` (for example: `fr-French`, `it-Italian`...).
 
 - Make sure to copy all the keys from English version.
+
+#### Some special characters to keep in mind
+Android:
+
+- `&` -> `&amp;`
+- `'` -> `\'`
+
+iOS:
+
+- `"` -> `\"`
 
 ## Credit
 The apps will have a section in About page dedicated to contributors of this repository.
