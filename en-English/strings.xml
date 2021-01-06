@@ -137,7 +137,7 @@
     <string name="sender_address_format_example">John Doe who uses john.doe@example.com to send you an email, how would you like to format his email?</string>
     <!-- About -->
     <string name="about_simplelogin">About SimpleLogin</string>
-    <string name="simplelogin_short_description">SimpleLogin is an open source solution to project your online identity.\n\nSimpleLogin strives to offer a simple experience for both users and partners/developers.</string>
+    <string name="simplelogin_short_description">SimpleLogin is an open source solution to protect your online identity.\n\nSimpleLogin strives to offer a simple experience for both users and partners/developers.</string>
     <string name="how_it_works">How it works</string>
     <string name="how_it_works_title">The journey to the sane inbox</string>
     <string name="how_it_works_step_1_title">1. Sign up and start creating aliases</string>
@@ -146,7 +146,7 @@
     <string name="how_it_works_step_2_description">All emails sent to an alias are forwarded to your "real" email address without the sender knowing anything</string>
     <string name="how_it_works_step_3_title">3. Create aliases without leaving the browser/application</string>
     <string name="how_it_works_step_3_description">On your desktop, you can install our browser extension to manage and quickly create aliases on the fly.\n\nOn your smartphone with SimpleLogin installed, whenever you need to register to a website, simple "share" the website you are visiting with SimpleLogin to quickly create an alias.</string>
-    <string name="security">Security<string>
+    <string name="security">Security</string>
     <string name="what_you_can_do_with_aliases_a_title">A. Replace email by alias everywhere</string>
     <string name="what_you_can_do_with_aliases_a_description">Subscribe to mailing lists, create new online accounts with email alias.\n\nAll emails sent to an alias will be forwarded to your personal inbox.\n\nLater on, simply block an alias if it is too spammy.</string>
     <string name="what_you_can_do_with_aliases_b_title">B. Send emails from alias</string>
