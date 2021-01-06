@@ -196,7 +196,7 @@
 "send_new_activation_code" = "We will send you a new activation code for \"%@\"";
 "check_new_verification_code" = "Check your inbox for new verification code";
 // Time
-<strind name="created_on" = "Created on";
+"string name"="created_on" = "Created on";
 "just_now" = "just now";
 "minutes_ago" = "minutes ago";
 "day_ago" = "day ago";

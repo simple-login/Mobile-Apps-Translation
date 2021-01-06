@@ -196,7 +196,7 @@
 "send_new_activation_code" = "Ti invieremo un nuovo codice di verifica a \"%@\"";
 "check_new_verification_code" = "Controlla la tua email per il nuovo codice di verifica";
 // Time
-<strind name="created_on" = "Creato";
+"string name"="created_on" = "Creato";
 "just_now" = "adesso";
 "minutes_ago" = "minuti fa";
 "day_ago" = "giorno fa";
