@@ -198,7 +198,7 @@
     <string name="send_new_activation_code">We will send you a new activation code for "%1$s"</string>
     <string name="check_new_verification_code">Check your inbox for new verification code</string>
     <!-- Time -->
-    <strind name="created_on">Created on</string>
+    <string name="created_on">Created on</string>
     <string name="just_now">just now</string>
     <string name="minutes_ago">minutes ago</string>
     <string name="day_ago">day ago</string>
