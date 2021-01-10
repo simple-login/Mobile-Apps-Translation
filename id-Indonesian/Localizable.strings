@@ -27,11 +27,11 @@
 "yes_sign_me_out" = "Ya, keluar";
 // Alias
 "forward" = "teruskan";
-"forwards" = "diteruskan";
+"forwards" = "teruskan";
 "block" = "blok";
-"blocks" = "diblokir";
+"blocks" = "blok";
 "reply" = "balas";
-"replies" = "dibalas";
+"replies" = "balas";
 "send_email" = "Kirim email";
 "deleted_alias" = "Alias terhapus \"%@\"";
 // Alias detail
@@ -93,9 +93,9 @@
 "created_contact" = "Kontak dibuat \"%@\"";
 "deleted_contact" = "Kontak dihapus \"%@\"";
 // Mailboxes
-"default_mailbox" = "default mailbox";
+"default_mailbox" = "Default mailbox";
 "make_default_mailbox_confirmation" = "Jadikan \"%@\" default mailbox";
-"new_mailbox" = "mailbox baru";
+"new_mailbox" = "Mailbox baru";
 "new_mailbox_hint" = "email-saya-lainnya@example.com";
 "new_mailbox_explication" = "Email verifikasi akan dikirim ke alamat email ini";
 "new_mailbox_confirmation" = "Anda akan menerima email konfirmasi untuk \"%@\"";
@@ -289,7 +289,7 @@
 "faq_9_question" = "Apakah email saya dimodifikasi?";
 "faq_9_answer" = "Tidak, konten email Anda yang diteruskan apa adanya, beserta lampiran. SimpleLogin tidak memodifikasi konten email dan hanya mengandalkan header email untuk \"sihirnya\".";
 "faq_10_question" = "Apa itu reverse-alias?";
-"faq_10_answer" = "reverse-alias adalah alias khusus yang memungkinkan Anda mengirim email dari alias.\n\nreverse-alias dibuat untuk setiap alias yang ingin Anda kirimi email dan setiap kontak yang ingin Anda kirimi email.\n\nSaat Anda mengirim email ke reverse-alias dari email pribadi Anda, email akan dikirim dari alias Anda ke kontak.";
+"faq_10_answer" = "Reverse-alias adalah alias khusus yang memungkinkan Anda mengirim email dari alias.\n\nreverse-alias dibuat untuk setiap alias yang ingin Anda kirimi email dan setiap kontak yang ingin Anda kirimi email.\n\nSaat Anda mengirim email ke reverse-alias dari email pribadi Anda, email akan dikirim dari alias Anda ke kontak.";
 "faq_11_question" = "Apakah email alias permanen?";
 "faq_11_answer" = "Layaknya alamat email pada umumnya, alias email selalu ada kecuali Anda menghapusnya.";
 "faq_12_question" = "Di mana server SimpleLogin berada?";

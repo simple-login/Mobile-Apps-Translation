@@ -29,11 +29,11 @@
     <string name="yes_sign_me_out">Ya, keluar</string>
     <!-- Alias -->
     <string name="forward">teruskan</string>
-    <string name="forwards">diteruskan</string>
+    <string name="forwards">teruskan</string>
     <string name="block">blok</string>
-    <string name="blocks">diblokir</string>
+    <string name="blocks">blok</string>
     <string name="reply">balas</string>
-    <string name="replies">dibalas</string>
+    <string name="replies">balas</string>
     <string name="send_email">Kirim email</string>
     <string name="deleted_alias">Alias terhapus "%1$s"</string>
     <!-- Alias detail -->
@@ -95,7 +95,7 @@
     <string name="created_contact">Kontak dibuat "%1$s"</string>
     <string name="deleted_contact">Kontak dihapus "%1$s"</string>
     <!-- Mailboxes -->
-    <string name="default_mailbox">default mailbox</string>
+    <string name="default_mailbox">Default mailbox</string>
     <string name="make_default_mailbox_confirmation">Jadikan "%1$s" default mailbox</string>
     <string name="new_mailbox">Mailbox baru</string>
     <string name="new_mailbox_hint">email-saya-lainnya@example.com</string>
@@ -291,7 +291,7 @@
     <string name="faq_9_question">Apakah email saya dimodifikasi?</string>
     <string name="faq_9_answer">Tidak, konten email Anda yang diteruskan apa adanya, beserta lampiran. SimpleLogin tidak memodifikasi konten email dan hanya mengandalkan header email untuk "sihirnya".</string>
     <string name="faq_10_question">Apa itu reverse-alias?</string>
-    <string name="faq_10_answer">reverse-alias adalah alias khusus yang memungkinkan Anda mengirim email dari alias.\n\nreverse-alias dibuat untuk setiap alias yang ingin Anda kirimi email dan setiap kontak yang ingin Anda kirimi email.\n\nSaat Anda mengirim email ke reverse-alias dari email pribadi Anda, email akan dikirim dari alias Anda ke kontak.</string>
+    <string name="faq_10_answer">Reverse-alias adalah alias khusus yang memungkinkan Anda mengirim email dari alias.\n\nreverse-alias dibuat untuk setiap alias yang ingin Anda kirimi email dan setiap kontak yang ingin Anda kirimi email.\n\nSaat Anda mengirim email ke reverse-alias dari email pribadi Anda, email akan dikirim dari alias Anda ke kontak.</string>
     <string name="faq_11_question">Apakah email alias permanen?</string>
     <string name="faq_11_answer">Layaknya alamat email pada umumnya, alias email selalu ada kecuali Anda menghapusnya.</string>
     <string name="faq_12_question">Di mana server SimpleLogin berada?</string>
