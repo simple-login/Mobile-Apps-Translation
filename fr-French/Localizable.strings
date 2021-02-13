@@ -3,7 +3,7 @@
 "deactivate" = "désactiver";
 "deactivated" = "désactivé";
 "cancel" = "Annuler";
-"close" = "Ferme";
+"close" = "Fermer";
 "confirm" = "Confirmer";
 "copy" = "Copier";
 "copied" = "Copié";
@@ -15,10 +15,10 @@
 "retry" = "Réessayer";
 "save" = "Sauvegarder";
 // Left menu
-"alias" = "alias de courriels";
-"aliases" = "alias de courriels";
-"mailbox" = "mailbox (boîte de réception)";
-"mailboxes" = "mailbox (boîtes de réception)";
+"alias" = "alias";
+"aliases" = "alias";
+"mailbox" = "mailbox (boîte mail)";
+"mailboxes" = "mailbox (boîtes mail)";
 "settings" = "Réglages";
 "about" = "A propos";
 "rate_us" = "Voter";
@@ -32,7 +32,7 @@
 "blocks" = "bloqués";
 "reply" = "réponse";
 "replies" = "réponses";
-"send_email" = "Envoyer email";
+"send_email" = "Envoyer mail";
 "deleted_alias" = "Supprimer alias \"%@\"";
 // Alias detail
 "edit_mailboxes" = "Éditer mailbox";
@@ -46,16 +46,16 @@
 "no_note" = "Pas de note";
 "edit_note" = "Éditer note";
 "edit_note_for_alias" = "Éditer note pour un alias";
-"email_handled" = "Email traité";
-"emails_handled" = "Emails traités";
-"email_forwarded" = "Email transféré";
-"emails_forwarded" = "Emails transférés";
-"email_replied" = "Email répondu";
-"emails_replied" = "Emails répondus";
-"email_blocked" = "Email bloqué";
-"emails_blocked" = "Emails bloqués";
+"email_handled" = "Mail traité";
+"emails_handled" = "Mails traités";
+"email_forwarded" = "Mail transféré";
+"emails_forwarded" = "Mails transférés";
+"email_replied" = "Mail répondu";
+"emails_replied" = "Mails répondus";
+"email_blocked" = "Mail bloqué";
+"emails_blocked" = "Mails bloqués";
 // Send email
-"compose_and_send_email" = "Composer et envoyer email";
+"compose_and_send_email" = "Composer et envoyer";
 "from" = "De";
 "to" = "À";
 "copy_reverse_alias_with_display_name" = "Copier reverse-alias (avec nom)";
@@ -65,50 +65,50 @@
 "all" = "Tout";
 "active" = "Activé";
 "inactive" = "Inactivé";
-"delete_alias_confirmation" = "🛑 Ceux qui vous avez contacté par cet alias ne peuvent plus vous contacter. L'opération est irréversible, veuillez confirmer.";
+"delete_alias_confirmation" = "🛑 Les personnes qui vous avez contacté via cet alias ne peuvent plus vous envoyer de mails. L'opération est irréversible, veuillez confirmer.";
 // Create alias
 "create_alias" = "Créer un Alias";
-"create_alias_placebolder" = "Par example: groupon, newsletters";
+"create_alias_placebolder" = "Par example: groupon, newsletter";
 "create_alias_name_requirements_explication" = "Seuls les minuscule, chiffre, - et _ sont supportés.";
 "create_alias_mailboxes_explication" = "Alias appartient à ce(s) mailbox(es)";
 "name" = "Nom";
 "create_alias_name_explication" = "Le nom qui s'affiche quand vous répondez ou envoyez un mail (optionnel)";
-"create_alias_name_placeholder" = "Par example: John Doe";
+"create_alias_name_placeholder" = "Par exemple: John Doe";
 "note" = "Note";
-"create_alias_note_explication" = "Anything to remind you (optional)";
-"create_alias_note_placeholder" = "Ex: For tech newletters, online shopping, hot deals...";
-"create_alias_hint" = "💡Hint: To make it easy to remember for later use, it is a good practice to use the name of the website/service that you plan to register with alias.";
-"select_suffix" = "Select suffix";
-"no_selected_suffix" = "No suffix is selected";
+"create_alias_note_explication" = "Par exemple où et pourquoi cet alias est créé (optionel)";
+"create_alias_note_placeholder" = "Par exemple: pour un newletter, pour un achat, etc";
+"create_alias_hint" = "💡Astuce: vous pouvez utiliser le nom de service dans l'alias";
+"select_suffix" = "Choisir le suffix";
+"no_selected_suffix" = "Un suffix doit être choisi";
 // Random alias
-"by_random_words" = "By random words";
-"by_uuid" = "By UUID";
-"new_alias" = "New alias";
-"randomly_create_alias" = "Randomly create an alias";
+"by_random_words" = "Par des mots aléatoires";
+"by_uuid" = "Par UUID(identifiant unique universel)";
+"new_alias" = "Nouvel alias";
+"randomly_create_alias" = "Créer un alias aléatoire";
 // Search alias
-"enter_search_term" = "Enter search term";
-"no_result_for_search_term" = "No result found for \"%@\"";
+"enter_search_term" = "Entrer un query";
+"no_result_for_search_term" = "Pas de résultat pour \"%@\"";
 // Contact
-"create_contact_explication" = "Create a contact to send email from your alias";
-"created_contact" = "Created contact \"%@\"";
-"deleted_contact" = "Deleted contact \"%@\"";
+"create_contact_explication" = "Créer un contact pour envoyer un mail depuis l'alias";
+"created_contact" = "Contact \"%@\" créé";
+"deleted_contact" = "Contact \"%@\" supprimé";
 // Mailboxes
-"default_mailbox" = "Default mailbox";
-"make_default_mailbox_confirmation" = "Make \"%@\" default mailbox";
-"new_mailbox" = "New mailbox";
-"new_mailbox_hint" = "my-another-email@example.com";
-"new_mailbox_explication" = "A verification email will be sent to this email address";
-"new_mailbox_confirmation" = "You are going to receive a confirmation email for \"%@\"";
-"how_to_use_mailboxes" = "How to use mailboxes";
-"mailbox_explication" = "A mailbox is just another personal email address.\nWhen creating a new alias, you could choose the mailbox that owns this alias, i.e:\n- all emails sent to this alias will be forwarded to this mailbox\n- from this mailbox, you can reply/send emails from the alias.\n\nWhen you signed up, a mailbox is automatically created with the provided email.\n\nA mailbox doesn't have to be your email: it can be your friend's email if you want to create aliases for your buddy.";
-"set_as_default" = "Set as default";
-"delete_mailbox_confirmation" = "🛑 All aliases associated with this mailbox will also be deleted. This operation is irreversible. Please confirm.";
+"default_mailbox" = "Mailbox par défaut";
+"make_default_mailbox_confirmation" = "Choisir \"%@\" comme mailbox par défaut";
+"new_mailbox" = "Nouveau mailbox";
+"new_mailbox_hint" = "ma-deuxieme-adresse@example.com";
+"new_mailbox_explication" = "Un mail de vérification sera envoyé à cette adresse";
+"new_mailbox_confirmation" = "Vous allez recevoir un mail de confirmation pour \"%@\"";
+"how_to_use_mailboxes" = "Comment utiliser mailbox";
+"mailbox_explication" = "Un mailbox est votre boîte mail habituelle.\nQuand vous créez un nouvel alias, vous pouvez choisir les mailbox auquel appartient cet alias:\n- tous les mails envoyés à cet alias sont redirigés à ces mailbox. \n- depuis ce mailbox, vous pouvez envoyer les mails depuis l'alias.\n\nQuand vous créez votre compte, un mailbox est automatiquement créé avec votre adresse mail. \n\nUn mailbox peut appartenir à quelqu'un d'autre, par example il peut être l'adresse mail de votre ami(e) si vous voulez créer des alias pour lui(elle).";
+"set_as_default" = "Choisir par défaut";
+"delete_mailbox_confirmation" = "🛑 Tous les alias associés à ce mailbox seront supprimés. L'opération n'est pas réversible. Veuillez confirmer.";
 // Settings
-"modify_profile" = "Modify profile";
-"modify_profile_photo" = "Modify profile photo";
-"upload_new_photo" = "Upload new photo";
-"remove_profile_photo" = "Remove profile photo";
-"modify_display_name" = "Modify display name";
+"modify_profile" = "Modifier mon profil";
+"modify_profile_photo" = "Modifier ma photo de profil";
+"upload_new_photo" = "Télécharger une photo";
+"remove_profile_photo" = "Supprimer la photo de profil";
+"modify_display_name" = "Modifier le nom affiché";
 "enter_new_display_name" = "Enter new display name";
 "touch_id" = "Touch ID";
 "touch_id_authentication" = "Touch ID Authentication";
