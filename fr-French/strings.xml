@@ -26,7 +26,7 @@
     <string name="rate_us">Notez l'application</string>
     <string name="sign_out">Se déconnecter</string>
     <string name="sign_out_confirmation">Vous allez vous déconnecter</string>
-    <string name="yes_sign_me_out">Oui</string>
+    <string name="yes_sign_me_out">Oui, déconnectez-moi</string>
     <!-- Alias -->
     <string name="forward">transfert</string>
     <string name="forwards">transferts</string>
@@ -145,7 +145,7 @@
     <string name="how_it_works_step_2_title">2. Recevez des mails en toute sécurité</string>
     <string name="how_it_works_step_2_description">Tous les mails envoyés à un alias sont transférés à votre "vraie" adresse électronique sans que l'expéditeur ne le sache.</string>
     <string name="how_it_works_step_3_title">3. Créer des alias sans quitter votre navigateur/application</string>
-    <string name="how_it_works_step_3_description">Sur votre ordinateur de bureau, vous pouvez installer notre extension de navigateur pour gérer et créer rapidement des alias à la volée.\NSur votre smartphone avec SimpleLogin installé, chaque fois que vous devez vous inscrire à un site Web, il suffit d'indiquer à SimpleLogin le site Web que vous visitez pour créer rapidement un alias.</string>
+    <string name="how_it_works_step_3_description">Sur votre ordinateur de bureau, vous pouvez installer notre extension de navigateur pour gérer et créer rapidement des alias à la volée.\NSur votre smartphone avec SimpleLogin installé, chaque fois que vous devez vous inscrire à un site Web, il suffit d'indiquer à SimpleLogin le site Web que vous visitez, afin de créer rapidement un alias.</string>
     <string name="security">Sécurité</string>
     <string name="what_you_can_do_with_aliases_a_title">A. Remplacez partout votre mail par un alias</string>
     <string name="what_you_can_do_with_aliases_a_description">Inscrivez-vous à des listes de diffusion, créez de nouveaux comptes en ligne avec un alias. Tous les mails envoyés à un alias seront transférés vers votre boîte de réception personnelle. Plus tard, bloquez simplement l'alias si vous recevez trop de courriers indésirables.</string>
