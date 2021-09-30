@@ -119,8 +119,8 @@
 "authenticate_to_activate_or_deactivate" = "Veuillez vous authentifier auprès de %@ %@";
 "or_use_your_passcode" = "Ou utilisez votre code d'accès";
 "biometric_authentication_explication" = "Éviter les accès indésirables à votre compte SimpleLogin sur cet appareil";
-"newletters" = "Lettres d'information";
-"newletters_explication" = "Nous vous enverrons occasionnellement des mails annonçant de nouvelles fonctionnalités";
+"newsletters" = "Lettres d'information";
+"newsletters_explication" = "Nous vous enverrons occasionnellement des mails annonçant de nouvelles fonctionnalités";
 "random_alias" = "Alias aléatoire";
 "random_alias_explication" = "Modifier la façon dont les alias aléatoires sont générés par défaut";
 "based_on_uuid" = "Basé sur l'UUID";
