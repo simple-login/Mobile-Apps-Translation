@@ -24,7 +24,7 @@
 "rate_us" = "Notez l'application";
 "sign_out" = "Se déconnecter";
 "sign_out_confirmation" = "Vous allez vous déconnecter";
-"yes_sign_me_out" = "Oui";
+"yes_sign_me_out" = "Oui, déconnectez-moi";
 // Alias
 "forward" = "transfert";
 "forwards" = "transferts";
@@ -143,7 +143,7 @@
 "how_it_works_step_2_title" = "2. Recevez des mails en toute sécurité";
 "how_it_works_step_2_description" = "Tous les mails envoyés à un alias sont transférés à votre "vraie" adresse électronique sans que l'expéditeur ne le sache.";
 "how_it_works_step_3_title" = "3. Créer des alias sans quitter votre navigateur/application";
-"how_it_works_step_3_description" = "Sur votre ordinateur de bureau, vous pouvez installer notre extension de navigateur pour gérer et créer rapidement des alias à la volée.\NSur votre smartphone avec SimpleLogin installé, chaque fois que vous devez vous inscrire à un site Web, il suffit de \"partager" le site Web que vous visitez avec SimpleLogin pour créer rapidement un alias.";
+"how_it_works_step_3_description" = "Sur votre ordinateur de bureau, vous pouvez installer notre extension de navigateur pour gérer et créer rapidement des alias à la volée.\NSur votre smartphone avec SimpleLogin installé, chaque fois que vous devez vous inscrire à un site Web, il suffit d'indiquer à SimpleLogin le site Web que vous visitez, afin de créer rapidement un alias.";
 "security" = "Sécurité";
 "what_you_can_do_with_aliases_a_title" = "A. Remplacez partout votre mail par un alias";
 "what_you_can_do_with_aliases_a_description" = "Inscrivez-vous à des listes de diffusion, créez de nouveaux comptes en ligne avec un alias. Tous les mails envoyés à un alias seront transférés vers votre boîte de réception personnelle. Plus tard, bloquez simplement l'alias si vous recevez trop de courriers indésirables.";
@@ -196,7 +196,7 @@
 "send_new_activation_code" = "Nous vous enverrons un nouveau code d'activation pour \"%@\".";
 "check_new_verification_code" = "Vérifiez votre boîte de réception pour le nouveau code de vérification";
 // Time
-created_on" = "Créé le";
+"created_on" = "Créé le";
 "just_now" = "à l'instant";
 "minutes_ago" = "il y a %@ minutes";
 "day_ago" = "il y a un jour";
