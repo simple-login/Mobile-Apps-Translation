@@ -121,8 +121,8 @@
     <string name="authenticate_to_activate_or_deactivate">Veuillez vous authentifier auprès de %@ %@</string>
     <string name="or_use_your_passcode">Ou utilisez votre code d'accès</string>
     <string name="biometric_authentication_explication">Éviter les accès indésirables à votre compte SimpleLogin sur cet appareil</string>
-    <string name="newletters">Lettres d'information</string>
-    <string name="newletters_explication">Nous vous enverrons occasionnellement des mails annonçant de nouvelles fonctionnalités</string>
+    <string name="newsletters">Lettres d'information</string>
+    <string name="newsletters_explication">Nous vous enverrons occasionnellement des mails annonçant de nouvelles fonctionnalités</string>
     <string name="random_alias">Alias aléatoire</string>
     <string name="random_alias_explication">Modifier la façon dont les alias aléatoires sont générés par défaut</string>
     <string name="based_on_uuid">Basé sur l'UUID</string>
