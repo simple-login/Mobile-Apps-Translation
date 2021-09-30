@@ -20,8 +20,8 @@
 "mailbox" = "boîte mails";
 "mailboxes" = "boîtes mails";
 "settings" = "Réglages";
-"about" = "A propos";
-"rate_us" = "Voter";
+"about" = "À propos";
+"rate_us" = "Notez l'application";
 "sign_out" = "Se déconnecter";
 "sign_out_confirmation" = "Vous allez vous déconnecter";
 "yes_sign_me_out" = "Oui";
@@ -131,7 +131,7 @@
 "your_domain" = "Votre domaine";
 "choose_sender_address_format" = "Choisissez le format de l'adresse de l'expéditeur";
 "sender_address_format" = "Format de l'adresse de l'expéditeur";
-"sender_address_format_explication" = "Configurer le formatage des adresses mails entrants";
+"sender_address_format_explication" = "Configurer le formatage des adresses mails entrantes";
 "sender_address_format_example" = "John Doe qui utilise john.doe@example.com pour vous envoyer un courriel, comment voulez-vous formater son adresse ?";
 // About
 "about_simplelogin" = "À propos de SimpleLogin";
@@ -144,7 +144,7 @@
 "how_it_works_step_2_description" = "Tous les mails envoyés à un alias sont transférés à votre "vraie" adresse électronique sans que l'expéditeur ne le sache.";
 "how_it_works_step_3_title" = "3. Créer des alias sans quitter votre navigateur/application";
 "how_it_works_step_3_description" = "Sur votre ordinateur de bureau, vous pouvez installer notre extension de navigateur pour gérer et créer rapidement des alias à la volée.\NSur votre smartphone avec SimpleLogin installé, chaque fois que vous devez vous inscrire à un site Web, il suffit de \"partager" le site Web que vous visitez avec SimpleLogin pour créer rapidement un alias.";
-"security" = "Security<string = "Sécurité";
+"security" = "Sécurité";
 "what_you_can_do_with_aliases_a_title" = "A. Remplacez partout votre mail par un alias";
 "what_you_can_do_with_aliases_a_description" = "Inscrivez-vous à des listes de diffusion, créez de nouveaux comptes en ligne avec un alias. Tous les mails envoyés à un alias seront transférés vers votre boîte de réception personnelle. Plus tard, bloquez simplement l'alias si vous recevez trop de courriers indésirables.";
 "what_you_can_do_with_aliases_b_title" = "B. Envoyer des mails à partir d'un alias";
@@ -196,7 +196,7 @@
 "send_new_activation_code" = "Nous vous enverrons un nouveau code d'activation pour \"%@\".";
 "check_new_verification_code" = "Vérifiez votre boîte de réception pour le nouveau code de vérification";
 // Time
-<strind name="created_on" = "Créé le";
+created_on" = "Créé le";
 "just_now" = "à l'instant";
 "minutes_ago" = "il y a %@ minutes";
 "day_ago" = "il y a un jour";
@@ -208,7 +208,7 @@
 "year_ago" = "il y a un an";
 "years_ago" = "il y a %@ ans";
 // Subscription
-"free_plan" = "Plan gratuit";
+"free_plan" = "Formule gratuite";
 "premium" = "Premium";
 "premium_trial" = "Essai Premium";
 "upgrade_needed" = "Mise à niveau nécessaire";
@@ -226,11 +226,11 @@
 "unlimited_bandwidth" = "Bande passante illimitée";
 "unlimited_reply_send" = "Envoi/réception illimité depuis un alias";
 "sign_in_with_simplelogin" = "Connexion avec SimpleLogin";
-"go_premium" = "Passez au plan Premium pour en avoir plus";
+"go_premium" = "Passez à la formule Premium pour en avoir plus";
 "unlimited_aliases" = "Alias illimités";
 "unlimited_custom_domains" = "Domaines personnalisés illimités";
 "unlimited_custom_domains_explication" = "Ajouter votre propre domaine pour créer des alias comme contact@votre-domaine.fr";
-"catch_all_domain" = "Domaine attrape-tout (catch-all ou joker)";
+"catch_all_domain" = "Redirection totale (catch-all ou joker)";
 "50_directories" = "50 répertoires/noms d'utilisateurs";
 "unlimited_mailboxes" = "Nombre illimité de boîtes mails";
 "pgp_encryption" = "Chiffrage PGP";
@@ -243,7 +243,7 @@
 "simplelogin_for_enterprise" = "SimpleLogin pour les entreprises";
 "simplelogin_for_enterprise_title" = "Adoptez SimpleLogin pour votre entreprise";
 "dedicated_server" = "Serveur et base de données dédiés";
-"dashboard_to_manage" = "Tableau de bord pour gérer les comptes de l'équipe";
+"dashboard_to_manage" = "Tableau de bord pour gérer les comptes de votre équipe";
 "single_sign_on" = "Authentification unique (SAML ou OAuth2)";
 "restore_purchase" = "Restaurer l'achat";
 "unknown_error" = "Erreur inconnue";
@@ -251,8 +251,8 @@
 "invalid_payment" = "Paiement non valide";
 "payment_not_allowed" = "Paiement non autorisé";
 "product_not_available" = "Le produit n'est pas disponible";
-"cloud_service_permission_denied" = "Permission refusée au service en ligne";
-"cloud_service_network_connection_failed" = "Échec de la connexion au réseau de service en ligne";
+"cloud_service_permission_denied" = "Accès refusé au service en ligne";
+"cloud_service_network_connection_failed" = "Échec de la connexion au service en ligne";
 "cloud_service_revoked" = "Service en ligne révoqué";
 "error_retrieving_products" = "Erreur lors de la récupération des produits";
 // Various
@@ -273,7 +273,7 @@
 "faq_1_question" = "Qu'est-ce que l'alias d'un mail ?";
 "faq_1_answer" = "L'alias d'un mail est similaire à une adresse électronique de redirection : tous les mails envoyés à un alias seront redirigés vers votre boîte de réception.\n\nGrâce à la technologie SimpleLogin, vous pouvez également envoyer des mails à partir d'un alias.\n\nPour votre contact, l'alias est donc votre adresse électronique.";
 "faq_2_question" = "Je peux utiliser mon astuce du plus (+) pour créer un nombre illimité d'adresses électroniques, pourquoi ai-je besoin de SimpleLogin ?";
-"faq_2_answer" = "Le sous-adressage par mail, également connu sous le nom de l'astuce du plus (+), popularisé par Gmail et pris en charge par certains services de messagerie, vous permet de créer de nouvelles adresses électroniques en ajoutant "+" à votre adresse électronique actuelle. Si votre adresse électronique est nom@protonmail.com, vous pouvez rapidement créer une autre adresse comme nom+facebook@protonmail.com pour Facebook, nom+groupon@protonmail.com pour Groupon, etc. Bien que pratique, cette astuce présente quelques inconvénients :\n- Vous ne pouvez pas répondre à partir de l'adresse (+) : votre véritable adresse électronique apparaîtra comme expéditeur.\n- L'astuce (+) est bien connue et certains sites Web n'autorisent pas les inscriptions avec des adresses électroniques contenant le caractère (+).\n- L'astuce (+) ne protège pas votre vie privée : on peut facilement supprimer la partie avant le (+) pour avoir votre véritable adresse électronique. Si votre adresse (+) apparaît lors d'une fuite de données, votre véritable adresse sera aussi dans les mains des spammeurs. Vous pouvez vérifier si votre adresse électronique a fait l'objet d'une fuite en utilisant un site Web comme https://haveibeenpwned.com\n- En supprimant la partie avant le (+), les annonceurs peuvent relier ces adresses (+) entre elles pour avoir votre historique de navigation.\n\nLes alias de SimpleLogin n'ont aucun de ces inconvénients.\nEn outre, SimpleLogin pourrait également vous aider à gérer vos mails professionnels. Si vous possédez un domaine et que vous ne voulez pas payer une solution complète comme GSuite, vous pouvez ajouter votre domaine dans SimpleLogin et ensuite créer des alias comme contact@mon-domaine.fr, partenaire@mon-domain.fr. Tous nos mails professionnels (ceux se terminant par @simplelogin.io) sont en réalité des alias.";
+"faq_2_answer" = "Le sous-adressage par mail, également connu sous le nom de l'astuce du plus (+), popularisé par Gmail et pris en charge par certains services de messagerie, vous permet de créer de nouvelles adresses électroniques en ajoutant "+" à votre adresse électronique actuelle. Si votre adresse électronique est nom@protonmail.com, vous pouvez rapidement créer une autre adresse comme nom+facebook@protonmail.com pour Facebook, nom+groupon@protonmail.com pour Groupon, etc. Bien que pratique, cette astuce présente quelques inconvénients :\n- Vous ne pouvez pas répondre à partir de l'adresse (+) : votre véritable adresse électronique apparaîtra comme expéditeur.\n- L'astuce (+) est bien connue et certains sites Web n'autorisent pas les inscriptions avec des adresses électroniques contenant le caractère (+).\n- L'astuce (+) ne protège pas votre vie privée : on peut facilement supprimer la partie avant le (+) pour avoir votre véritable adresse électronique. Si votre adresse (+) apparaît lors d'une fuite de données, votre véritable adresse sera aussi dans les mains des spammeurs. Vous pouvez vérifier si votre adresse électronique a fait l'objet d'une fuite en utilisant un site Web comme https://haveibeenpwned.com\n- En supprimant la partie avant le (+), les annonceurs peuvent relier ces adresses (+) entre elles pour avoir votre historique de navigation.\n\nLes alias de SimpleLogin n'ont aucun de ces inconvénients.\nEn outre, SimpleLogin pourrait également vous aider à gérer vos mails professionnels. Si vous possédez un domaine et que vous ne voulez pas payer une solution complète comme GSuite, vous pouvez ajouter votre domaine dans SimpleLogin et ensuite créer des alias comme contact@votre-domaine.fr, partenaire@votre-domain.fr. Tous nos mails professionnels (ceux se terminant par @simplelogin.io) sont en réalité des alias.";
 "faq_3_question" = "Quelle est la différence entre SimpleLogin et les autres services de transfert de mails ?";
 "faq_3_answer" = "SimpleLogin est la solution d'alias de mail la plus avancée et est activement développée. Voici quelques différences entre SimpleLogin et d'autres services de transfert de mails/alias :\n\n- Entièrement open-source : les codes du serveur et du client SimpleLogin (extensions des navigateurs, bibliothèques JS, applications mobiles) sont open-source afin que chacun puisse librement inspecter et améliorer le code.\n- Couvre toutes les principales plateformes : L'extension Chrome/Firefox/Safari pour les ordinateurs de bureau, les applications iOS et Android pour les téléphones portables.\n- La seule solution de transfert de mails qui peut être autohébergée, c'est-à-dire que vous pouvez exécuter SimpleLogin sur votre serveur. Grâce à nos instructions détaillées d'autohébergement et à la plupart des composants fonctionnant en tant que conteneur Docker, toute personne connaissant ssh est capable de déployer SimpleLogin sur son serveur.\n- Vous pouvez envoyer/réceptionner des mails à partir d'un alias. Il n'y a pas de limite au nombre d'envois/réception.\n- Bande passante illimitée.\n- Pas de publicité, pas de traceur.\n- SimpleLogin n'est pas seulement un alias de messagerie : c'est également un fournisseur d'identité respectueux de la vie privée et convivial pour les développeurs\n- SimpleLogin offre une alternative aux boutons "Connexion avec Facebook/Google/Apple" axés sur le respect de la vie privée.\n- De nombreuses fonctionnalités : extension de navigateur, domaine personnalisé, alias général, bibliothèques OAuth... et bien d'autres à venir.\n- Feuille de route ouverte sur Trello : ainsi vous connaissez les fonctionnalités passionnantes sur lesquelles nous travaillons.";
 "faq_4_question" = "En quoi SimpleLogin est-il différent des services de messagerie temporaire ?";
@@ -283,7 +283,7 @@
 "faq_6_question" = "Que se passe-t-il si SimpleLogin disparaît ?";
 "faq_6_answer" = "C'est probablement la question la plus difficile à laquelle une entreprise doit répondre :) Comme nous utilisons SimpleLogin quotidiennement, à la fois pour notre usage personnel et professionnel, dans le pire des cas, nous fermerons les inscriptions pour les nouveaux utilisateurs, de sorte que SimpleLogin ne pourra être utilisé que par les comptes existants. Pour information, Spamgourmet, un service de transfert de mails similaire, existe depuis plus de 20 ans maintenant. Spamgourmet est en fait une source d'inspiration pour SimpleLogin.\nSi tout cela n'est pas encore suffisant, vous pouvez également exécuter une instance de SimpleLogin vous-même, car le code de SimpleLogin est open-source et nous donnons des instructions détaillées sur la façon de l'installer.";
 "faq_7_question" = "Qu'est-ce que le répertoire alias ou la fonction "catch-all" ?";
-"faq_7_answer" = "Ces deux fonctions vous permettent de créer des alias à la volée, ce qui signifie que vous n'avez pas besoin d'ouvrir SimpleLogin pour créer un nouvel alias. Activer la fonction "catch-all" sur votre domaine vous permet d'utiliser CE-QUE-VOUS-VOULLEZ@mon-domaine.fr comme alias, en remplaçant "CE-QUE-VOUS-VOULLEZ" par n'importe quel mot. La seule limite est qu'il doit comporter moins de 128 caractères.\n\nLe répertoire d'alias est similaire au catch-all, vous pouvez utiliser votre_répertoire+CE-QUE-VOUS-VOULLEZ@mon-domaine.fr comme alias. "votre_répertoire" étant le nom du répertoire que vous avez créé.";
+"faq_7_answer" = "Ces deux fonctions vous permettent de créer des alias à la volée, ce qui signifie que vous n'avez pas besoin d'ouvrir SimpleLogin pour créer un nouvel alias. Activer la fonction "catch-all" sur votre domaine vous permet d'utiliser CE-QUE-VOUS-VOULLEZ@votre-domaine.fr comme alias, en remplaçant "CE-QUE-VOUS-VOULLEZ" par n'importe quel mot. La seule limite est qu'il doit comporter moins de 128 caractères.\n\nLe répertoire d'alias est similaire au catch-all, vous pouvez utiliser votre_répertoire+CE-QUE-VOUS-VOULLEZ@votre-domaine.fr comme alias. "votre_répertoire" étant le nom du répertoire que vous avez créé.";
 "faq_8_question" = "Je reçois un mail transféré sur mon mail personnel à partir d'un alias. Comment puis-je y répondre ? Dois-je aller sur SimpleLogin pour initier la réponse ?";
 "faq_8_answer" = "Vous pouvez répondre directement depuis votre client de messagerie. Il suffit de cliquer sur le bouton "Répondre", la réponse sera acheminée via SimpleLogin et SimpleLogin la fera venir de votre alias. Votre mail personnel restera invisible pour l'expéditeur original. Techniquement, l'en-tête "From" de votre mail est remplacé par un alias spécial généré dynamiquement pour chaque expéditeur. Lorsque vous répondez, votre réponse est en fait envoyée à cet alias spécial et SimpleLogin relaie la réponse à l'expéditeur, en s'assurant que l'e-mail est envoyé à partir de votre alias. Toutes les informations concernant votre adresse électronique personnelle sont supprimées au cours de ce processus.";
 "faq_9_question" = "Mes mails sont-ils modifiés ?";
