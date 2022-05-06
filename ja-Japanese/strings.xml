@@ -67,7 +67,7 @@
     <string name="all">すべて</string>
     <string name="active">有効</string>
     <string name="inactive">無効</string>
-    <string name="delete_alias_confirmation">🛑 People/apps who used to contact you via this alias cannot reach you any more. This operation is irreversible. Please confirm.</string>
+    <string name="delete_alias_confirmation">🛑 このエイリアスを通じてあなたに連絡している人々/サービスはあなたに連絡できなくなります。この操作は取り消せません。よく確認して行ってください</string>
     <!-- Create alias -->
     <string name="create_alias">Create Alias</string>
     <string name="create_alias_placebolder">Ex: groupon, newsletters</string>
