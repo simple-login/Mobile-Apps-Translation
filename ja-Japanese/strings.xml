@@ -137,7 +137,7 @@
     <string name="sender_address_format_example">John Doe さんが john.doe@example.com からあなたにメールを送った場合、どのようにフォーマットしたいですか？</string>
     <!-- About -->
     <string name="about_simplelogin">SimpleLogin について</string>
-    <string name="simplelogin_short_description">SimpleLogin is an open source solution to protect your online identity.\n\nSimpleLogin strives to offer a simple experience for both users and partners/developers.</string>
+    <string name="simplelogin_short_description">SimpleLogin はあなたのオンライン上のアイデンティティを保護するオープンソース ソリューションです。\n\nSimpleLogin はシンプルな体験をユーザーとパートナー/デベロッパーの双方に提供できるように努めています</string>
     <string name="how_it_works">How it works</string>
     <string name="how_it_works_title">The journey to the sane inbox</string>
     <string name="how_it_works_step_1_title">1. Sign up and start creating aliases</string>
