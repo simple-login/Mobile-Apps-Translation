@@ -57,7 +57,7 @@
     <string name="email_blocked">ブロック</string>
     <string name="emails_blocked">ブロック</string>
     <!-- Send email -->
-    <string name="compose_and_send_email">Compose and send email</string>
+    <string name="compose_and_send_email">メールを作成して送信する</string>
     <string name="from">From</string>
     <string name="to">To</string>
     <string name="copy_reverse_alias_with_display_name">Copy reverse-alias (w/ display name)</string>
