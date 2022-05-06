@@ -60,13 +60,13 @@
     <string name="compose_and_send_email">メールを作成して送信する</string>
     <string name="from">From</string>
     <string name="to">To</string>
-    <string name="copy_reverse_alias_with_display_name">Copy reverse-alias (w/ display name)</string>
-    <string name="copy_reverse_alias_without_display_name">Copy reverse-alias (w/o display name)</string>
-    <string name="begin_composing_with_default_email">Begin composing with default email</string>
+    <string name="copy_reverse_alias_with_display_name">送信用エイリアスをコピー（表示名つき）</string>
+    <string name="copy_reverse_alias_without_display_name">送信用エイリアスをコピー（表示名なし）</string>
+    <string name="begin_composing_with_default_email">デフォルトのメールアプリで作成</string>
     <!-- Alias list -->
-    <string name="all">All</string>
-    <string name="active">Active</string>
-    <string name="inactive">Inactive</string>
+    <string name="all">すべて</string>
+    <string name="active">有効</string>
+    <string name="inactive">無効</string>
     <string name="delete_alias_confirmation">🛑 People/apps who used to contact you via this alias cannot reach you any more. This operation is irreversible. Please confirm.</string>
     <!-- Create alias -->
     <string name="create_alias">Create Alias</string>
