@@ -96,7 +96,7 @@
     <string name="deleted_contact">連絡先「%1$s」を削除しました</string>
     <!-- Mailboxes -->
     <string name="default_mailbox">デフォルトのメールボックス</string>
-    <string name="make_default_mailbox_confirmation">メールボックス「%1$s」をデフォルトにする</string>
+    <string name="make_default_mailbox_confirmation">メールボックス「%1$s」をデフォルトにします</string>
     <string name="new_mailbox">新しいメールボックス</string>
     <string name="new_mailbox_hint">my-another-email@example.com</string>
     <string name="new_mailbox_explication">認証メールがこのメールアドレスに送信されます</string>
@@ -246,26 +246,26 @@
     <string name="simplelogin_for_enterprise_title">あなたの企業に SimpleLogin を採用してください</string>
     <string name="dedicated_server">独立したサーバーとデータベース</string>
     <string name="dashboard_to_manage">チームのアカウントを管理するダッシュボード</string>
-    <string name="single_sign_on">Single Sign-On (SAML or OAuth2)</string>
-    <string name="restore_purchase">Restore purchase</string>
-    <string name="unknown_error">Unknown error</string>
-    <string name="invalid_client">Invalid client</string>
-    <string name="invalid_payment">Invalid payment</string>
-    <string name="payment_not_allowed">Payment not allowed</string>
-    <string name="product_not_available">Product is not available</string>
-    <string name="cloud_service_permission_denied">Cloud service permission denied</string>
-    <string name="cloud_service_network_connection_failed">Cloud service network connection failed</string>
-    <string name="cloud_service_revoked">Cloud service revoked</string>
-    <string name="error_retrieving_products">Error retrieving products</string>
+    <string name="single_sign_on">シングルサインオン（SAML または OAuth2）</string>
+    <string name="restore_purchase">支払いを復元</string>
+    <string name="unknown_error">未知のエラー</string>
+    <string name="invalid_client">無効なクライアント</string>
+    <string name="invalid_payment">無効な支払い方法</string>
+    <string name="payment_not_allowed">許可されていない支払い方法</string>
+    <string name="product_not_available">製品は使用できません</string>
+    <string name="cloud_service_permission_denied">クラウドサービスの権限が拒否されました</string>
+    <string name="cloud_service_network_connection_failed">クラウドサービスネットワークの接続に失敗しました</string>
+    <string name="cloud_service_revoked">クラウドサービスが無効化されました</string>
+    <string name="error_retrieving_products">製品のエラーを復旧しています</string>
     <!-- Various -->
-    <string name="error">Error</string>
-    <string name="error_occured">Error occured</string>
-    <string name="error_removing_api_key">Error removing API key from keychain</string>
-    <string name="error_setting_api_key">Error setting API key to keychain</string>
-    <string name="how_to">💡How to</string>
-    <string name="please_confirm">Please confirm</string>
-    <string name="select_all">Select all</string>
-    <string name="you_are_up_to_date">You are up to date</string>
+    <string name="error">エラー</string>
+    <string name="error_occured">エラーが発生しました</string>
+    <string name="error_removing_api_key">キーチェーンからの API キーの削除にエラーが発生しました</string>
+    <string name="error_setting_api_key">キーチェーンへの API キーの設定にエラーが発生しました</string>
+    <string name="how_to">💡使い方</string>
+    <string name="please_confirm">確認してください</string>
+    <string name="select_all">すべて選択</string>
+    <string name="you_are_up_to_date">最新版です</string>
     <!-- Tips -->
     <string name="tips_title">Do you know</string>
     <string name="tip_delete">To delete an item, simple swipe to left</string>
