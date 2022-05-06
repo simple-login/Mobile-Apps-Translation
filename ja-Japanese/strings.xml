@@ -28,14 +28,14 @@
     <string name="sign_out_confirmation">サインアウトしますか？</string>
     <string name="yes_sign_me_out">はい、サインアウトします</string>
     <!-- Alias -->
-    <string name="forward">forward</string>
-    <string name="forwards">forwards</string>
-    <string name="block">block</string>
-    <string name="blocks">blocks</string>
-    <string name="reply">reply</string>
-    <string name="replies">replies</string>
-    <string name="send_email">Send email</string>
-    <string name="deleted_alias">Deleted alias "%1$s"</string>
+    <string name="forward">件を転送</string>
+    <string name="forwards">件を転送</string>
+    <string name="block">件をブロック</string>
+    <string name="blocks">件をブロック</string>
+    <string name="reply">件に返信</string>
+    <string name="replies">件に返信</string>
+    <string name="send_email">メールを送信</string>
+    <string name="deleted_alias">エイリアス「%1$s」を削除</string>
     <!-- Alias detail -->
     <string name="edit_mailboxes">Edit mailboxes</string>
     <string name="add_name">Add name</string>
