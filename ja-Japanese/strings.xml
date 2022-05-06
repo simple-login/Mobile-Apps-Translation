@@ -217,10 +217,10 @@
     <string name="upgrade_needed_explication">上限に到達しました。無制限のエイリアスとその他の便利な機能を使用するには、プレミアムにアップグレードしてください</string>
     <string name="show_premium_features">プレミアムの機能を表示</string>
     <string name="not_right_now">今はしない</string>
-    <string name="error_fetching_receipt">Failed to fetch receipt: %1$s. Please contact us for further assistance.</string>
-    <string name="subscription_thank_you">Thank you for using our service</string>
-    <string name="subscription_thank_you_explication">The app will be refreshed shortly.</string>
-    <string name="got_it">Got it</string>
+    <string name="error_fetching_receipt">明細のフェッチに失敗しました: %1$s ヘルプが必要な場合は連絡してください</string>
+    <string name="subscription_thank_you">私たちのサービスをご利用いただきありがとうございます</string>
+    <string name="subscription_thank_you_explication">アプリがすぐにリフレッシュされます</string>
+    <string name="got_it">わかりました</string>
     <!-- IAP -->
     <string name="iap_page_title">It\'s never too late to protect your email</string>
     <string name="current_superpowers">Your current superpowers</string>
