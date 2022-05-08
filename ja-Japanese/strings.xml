@@ -296,6 +296,6 @@
     <string name="faq_11_answer">通常のメールアドレスと同じように、エイリアスは消去するまで有効です</string>
     <string name="faq_12_question">SimpleLogin のサーバーはどこにありますか？</string>
     <string name="faq_12_answer">フィンランドのクラウドプロバイダーである UpCloud を使用しています。私たちのサーバーは現在、France-Germany データセンターにあります</string>
-    <string name="faq_13_question">I can not find an answer to my question here</string>
-    <string name="faq_13_answer">You can find the list of all frequent question/answer on the FAQ page.\n\nIf you don't find the answer there, please send your question to hi@simplelogin.io.\n\nYou can also create an issue on our GitHub Issues.</string>
+    <string name="faq_13_question">ここにはない質問をするにはどうすればいいですか？</string>
+    <string name="faq_13_answer">ウェブサイトのFAQ のページでよくある質問のリストをご覧になれます\n\nもしそこでも見つからない場合、hi@simplelogin.io にご質問ください\n\nGitHub に Issue を作成することもできます</string>
 </resources>
