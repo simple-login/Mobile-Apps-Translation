@@ -123,7 +123,7 @@
     <string name="biometric_authentication_explication">端末の SimpleLogin アカウントへの不適切なアクセスを制限します</string>
     <string name="newsletters">ニュースレター</string>
     <string name="newsletters_explication">新機能のお知らせを不定期に送信します</string>
-    <string name="random_alias">Random Aliasランダム エイリアス</string>
+    <string name="random_alias">ランダム エイリアス</string>
     <string name="random_alias_explication">ランダム エイリアスを生成するデフォルトの方法</string>
     <string name="based_on_uuid">UUID をもとにする</string>
     <string name="based_on_random_words">ランダムな単語をもとにする</string>
