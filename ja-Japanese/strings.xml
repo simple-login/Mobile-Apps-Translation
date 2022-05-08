@@ -131,9 +131,9 @@
     <string name="select_default_domain">デフォルトのドメインを選択</string>
     <string name="simplelogin_domain">SimpleLogin ドメイン</string>
     <string name="your_domain">ユーザーのドメイン</string>
-    <string name="choose_sender_address_format">差出人アドレスのフォーマットを選択します</string>
+    <string name="choose_sender_address_format">差出人アドレスのフォーマットを選択</string>
     <string name="sender_address_format">差出人アドレスのフォーマット</string>
-    <string name="sender_address_format_explication">受信したメールのフォーマットを設定します。</string>
+    <string name="sender_address_format_explication">受信したメールのフォーマットを設定します</string>
     <string name="sender_address_format_example">John Doe さんが john.doe@example.com からあなたにメールを送った場合、どのようにフォーマットしたいですか？</string>
     <!-- About -->
     <string name="about_simplelogin">SimpleLogin について</string>
