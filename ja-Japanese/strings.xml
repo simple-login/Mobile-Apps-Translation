@@ -37,7 +37,7 @@
     <string name="send_email">メールを送信</string>
     <string name="deleted_alias">エイリアス「%1$s」を削除</string>
     <!-- Alias detail -->
-    <string name="edit_mailboxes">メールボックスを編集</string>
+    <string name="edit_mailboxes">メールボックスを変更</string>
     <string name="add_name">名前を追加</string>
     <string name="add_name_for_alias">エイリアスに名前を追加</string>
     <string name="edit_name">名前を編集</string>
