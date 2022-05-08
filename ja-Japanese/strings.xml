@@ -291,11 +291,11 @@
     <string name="faq_9_question">メールが書き換えられることはありますか？</string>
     <string name="faq_9_answer">いいえ。メール本文と添付ファイルはそのまま転送されます。SimpleLogin はメールの内容を書き換えません。SimpleLogin の「マジック」に関わるのはメールヘッダーのみです</string>
     <string name="faq_10_question">送信用エイリアスとは何ですか？</string>
-    <string name="faq_10_answer">送信用エイリアスとはエイリアスからメールを送信するための特別なエイリアスです。\n\n送信用エイリアスはあなたがメールを送信したいエイリアスと宛先ごとに作成されます\n\nWhen you send an email to a reverse-alias from your personal email, the email will be sent from your alias to the contact.</string>
-    <string name="faq_11_question">Is email alias permanent?</string>
-    <string name="faq_11_answer">As a normal email address, an email alias is always there unless you delete it.</string>
-    <string name="faq_12_question">Where is SimpleLogin server located?</string>
-    <string name="faq_12_answer">We use UpCloud, a Finland cloud provider. Our server is currently located in its France-Germany datacenter.</string>
+    <string name="faq_10_answer">送信用エイリアスとはエイリアスからメールを送信するための特別なエイリアスです。\n\n送信用エイリアスはあなたがメールを送信したいエイリアスと宛先ごとに作成されます\n\n本当のメールアドレスから送信用エイリアスにメールを送信すると、エイリアスから連絡先にメールが送信されます</string>
+    <string name="faq_11_question">エイリアスに有効期限はありますか？</string>
+    <string name="faq_11_answer">通常のメールアドレスと同じように、エイリアスは消去するまで有効です</string>
+    <string name="faq_12_question">SimpleLogin のサーバーはどこにありますか？</string>
+    <string name="faq_12_answer">フィンランドのクラウドプロバイダーである UpCloud を使用しています。私たちのサーバーは現在、France-Germany データセンターにあります</string>
     <string name="faq_13_question">I can not find an answer to my question here</string>
     <string name="faq_13_answer">You can find the list of all frequent question/answer on the FAQ page.\n\nIf you don't find the answer there, please send your question to hi@simplelogin.io.\n\nYou can also create an issue on our GitHub Issues.</string>
 </resources>
