@@ -287,11 +287,11 @@
     <string name="faq_7_question">エイリアス ディレクトリーや catch-all はどんな機能ですか？</string>
     <string name="faq_7_answer">これら 2 つの機能はどちらも SimpleLogin を開かずにエイリアスを作成する機能です\n\ncatch-all は独自ドメインで使用できます。有効にすると、ANYTHING@my-domain.com の ANYTHING 部分が 128 文字以下であればすべてのエイリアスが使用できるようになります\n\nエイリアス ディレクトリーは catch-all に似ていますが、your_directory+ANYTHING@simplelogin.co を使用します。your_directory はあなたが作成したディレクトリー名になります</string>
     <string name="faq_8_question">エイリアスから転送されたメールを自分のメールの受信トレイに受信しました。返信するにはどうすればいいですか？ SimpleLogin にアクセスしなければなりませんか？</string>
-    <string name="faq_8_answer">お使いのメールクライアントからそのまま返信してください。「返信」ボタンをタップするだけで SimpleLogin を経由して返信され、SimpleLogin はエイリアスから返信されたように編集します。本当のメールアドレスが宛先に伝わることはありません\n\n技術的には、From ヘッダーがそれぞれの差出人に対応する特別なエイリアスに動的に書き換えられています。返信すると、あなたの返信は実際には特別なエイリアスに送信され、SimpleLogin will relay the reply back to the sender, making sure the email is sent from your alias. All information about your personal email address is removed during that process.</string>
-    <string name="faq_9_question">Are my emails modified?</string>
-    <string name="faq_9_answer">No your email content is forwarded as-is, attachments included. SimpleLogin doesn't modify email content and only relies on email headers to do its "magic".</string>
-    <string name="faq_10_question">What is a reverse-alias?</string>
-    <string name="faq_10_answer">A reverse-alias is a special alias that allows you to send email from your alias.\n\nA reverse-alias is created for each alias you want to send email from and each contact you want to send email to.\n\nWhen you send an email to a reverse-alias from your personal email, the email will be sent from your alias to the contact.</string>
+    <string name="faq_8_answer">お使いのメールクライアントからそのまま返信してください。「返信」ボタンをタップするだけで SimpleLogin を経由して返信され、SimpleLogin はエイリアスから返信されたように編集します。本当のメールアドレスが宛先に伝わることはありません\n\n技術的には、From ヘッダーがそれぞれの差出人に対応する特別なエイリアスに動的に書き換えられています。返信すると、あなたの返信は実際には特別なエイリアスに送信され、SimpleLogin はエイリアスから返信されたように編集して宛先へリレーします。これらのプロセスの間に本当のメールアドレスに関する情報は取り除かれます</string>
+    <string name="faq_9_question">メールが書き換えられることはありますか？</string>
+    <string name="faq_9_answer">いいえ。メール本文と添付ファイルはそのまま転送されます。SimpleLogin はメールの内容を書き換えません。SimpleLogin の「マジック」に関わるのはメールヘッダーのみです</string>
+    <string name="faq_10_question">送信用エイリアスとは何ですか？</string>
+    <string name="faq_10_answer">送信用エイリアスとはエイリアスからメールを送信するための特別なエイリアスです。\n\n送信用エイリアスはあなたがメールを送信したいエイリアスと宛先ごとに作成されます\n\nWhen you send an email to a reverse-alias from your personal email, the email will be sent from your alias to the contact.</string>
     <string name="faq_11_question">Is email alias permanent?</string>
     <string name="faq_11_answer">As a normal email address, an email alias is always there unless you delete it.</string>
     <string name="faq_12_question">Where is SimpleLogin server located?</string>
