@@ -100,7 +100,7 @@
     <string name="new_mailbox">新しいメールボックス</string>
     <string name="new_mailbox_hint">my-another-email@example.com</string>
     <string name="new_mailbox_explication">認証メールがこのメールアドレスに送信されます</string>
-    <string name="new_mailbox_confirmation">「%1$s」の確認メールが送信されます</string>
+    <string name="new_mailbox_confirmation">「%1$s」に確認メールが送信されます</string>
     <string name="how_to_use_mailboxes">メールボックスの使い方</string>
     <string name="mailbox_explication">メールボックスは外部のメールアドレスのことです。エイリアスを作成すると、メールボックスを選択する必要があります。つまり:\n- エイリアスに送信されたすべてのメールはメールボックスに転送されます\n- メールボックスからは、エイリアスを通じてメールを送信したり返信したりできます\n\nサインアップすると、入力されたメールアドレスで自動的にメールボックスが作成されます\n\nメールボックスは必ずしもあなたのメールアドレスである必要はありません。あなたの友達のメールアドレスを設定すれば、エイリアスを作ってあげることができます</string>
     <string name="set_as_default">デフォルトに設定</string>
