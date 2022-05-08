@@ -72,7 +72,7 @@
     <string name="create_alias">エイリアスを作成</string>
     <string name="create_alias_placebolder">例: クーポン、ニュースレター</string>
     <string name="create_alias_name_requirements_explication">小文字、数字、ダッシュ（-）アンダーライン（_）のみに対応しています</string>
-    <string name="create_alias_mailboxes_explication">このエイリアスが所属するメールボックス</string>
+    <string name="create_alias_mailboxes_explication">このエイリアスのメールボックス</string>
     <string name="name">名前</string>
     <string name="create_alias_name_explication">メールを送信、返信する際の表示名（オプション）</string>
     <string name="create_alias_name_placeholder">例: John Doe</string>
@@ -102,7 +102,7 @@
     <string name="new_mailbox_explication">認証メールがこのメールアドレスに送信されます</string>
     <string name="new_mailbox_confirmation">「%1$s」の確認メールが送信されます</string>
     <string name="how_to_use_mailboxes">メールボックスの使い方</string>
-    <string name="mailbox_explication">メールボックスは外部のメールアドレスのことです。エイリアスを作成すると、エイリアスが所属するメールボックスを選択します。つまり:\n- エイリアスに送信されたすべてのメールはメールボックスに転送されます\n- メールボックスからは、エイリアスを通じてメールを送信したり返信したりできます\n\nサインアップすると、入力されたメールアドレスで自動的にメールボックスが作成されます\n\nメールボックスは必ずしもあなたのメールアドレスである必要はありません。あなたの友達のメールアドレスを設定すれば、エイリアスを作ってあげることができます</string>
+    <string name="mailbox_explication">メールボックスは外部のメールアドレスのことです。エイリアスを作成すると、メールボックスを選択する必要があります。つまり:\n- エイリアスに送信されたすべてのメールはメールボックスに転送されます\n- メールボックスからは、エイリアスを通じてメールを送信したり返信したりできます\n\nサインアップすると、入力されたメールアドレスで自動的にメールボックスが作成されます\n\nメールボックスは必ずしもあなたのメールアドレスである必要はありません。あなたの友達のメールアドレスを設定すれば、エイリアスを作ってあげることができます</string>
     <string name="set_as_default">デフォルトに設定</string>
     <string name="delete_mailbox_confirmation">🛑 このメールボックスに関連するすべてのエイリアスも同時に削除されます。この操作は取り消せません。よく考えて行ってください</string>
     <!-- Settings -->
