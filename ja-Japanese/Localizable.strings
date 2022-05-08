@@ -93,21 +93,21 @@
 "created_contact" = "連絡先「%1$s」を作成しました";
 "deleted_contact" = "連絡先「%1$s」を削除しました";
 // Mailboxes
-"default_mailbox" = "Default mailbox";
-"make_default_mailbox_confirmation" = "Make \"%@\" default mailbox";
-"new_mailbox" = "New mailbox";
+"default_mailbox" = "デフォルトのメールボックス";
+"make_default_mailbox_confirmation" = "メールボックス「%1$s」をデフォルトにします";
+"new_mailbox" = "新しいメールボックス";
 "new_mailbox_hint" = "my-another-email@example.com";
-"new_mailbox_explication" = "A verification email will be sent to this email address";
-"new_mailbox_confirmation" = "You are going to receive a confirmation email for \"%@\"";
-"how_to_use_mailboxes" = "How to use mailboxes";
-"mailbox_explication" = "A mailbox is just another personal email address.\nWhen creating a new alias, you could choose the mailbox that owns this alias, i.e:\n- all emails sent to this alias will be forwarded to this mailbox\n- from this mailbox, you can reply/send emails from the alias.\n\nWhen you signed up, a mailbox is automatically created with the provided email.\n\nA mailbox doesn't have to be your email: it can be your friend's email if you want to create aliases for your buddy.";
-"set_as_default" = "Set as default";
-"delete_mailbox_confirmation" = "🛑 All aliases associated with this mailbox will also be deleted. This operation is irreversible. Please confirm.";
+"new_mailbox_explication" = "認証メールがこのメールアドレスに送信されます";
+"new_mailbox_confirmation" = "「%1$s」に確認メールが送信されます";
+"how_to_use_mailboxes" = "メールボックスの使い方";
+"mailbox_explication" = "メールボックスは外部のメールアドレスのことです。エイリアスを作成すると、メールボックスを選択する必要があります。つまり:\n- エイリアスに送信されたすべてのメールはメールボックスに転送されます\n- メールボックスからは、エイリアスを通じてメールを送信したり返信したりできます\n\nサインアップすると、入力されたメールアドレスで自動的にメールボックスが作成されます\n\nメールボックスは必ずしもあなたのメールアドレスである必要はありません。あなたの友達のメールアドレスを設定すれば、エイリアスを作ってあげることができます";
+"set_as_default" = "デフォルトに設定";
+"delete_mailbox_confirmation" = "🛑 このメールボックスに関連するすべてのエイリアスも同時に削除されます。この操作は取り消せません。よく考えて行ってください";
 // Settings
-"modify_profile" = "Modify profile";
-"modify_profile_photo" = "Modify profile photo";
-"upload_new_photo" = "Upload new photo";
-"remove_profile_photo" = "Remove profile photo";
+"modify_profile" = "プロフィールを編集";
+"modify_profile_photo" = "プロフィール写真を変更";
+"upload_new_photo" = "新しい写真をアップロード";
+"remove_profile_photo" = "プロフィール写真を削除";
 "modify_display_name" = "Modify display name";
 "enter_new_display_name" = "Enter new display name";
 "touch_id" = "Touch ID";
