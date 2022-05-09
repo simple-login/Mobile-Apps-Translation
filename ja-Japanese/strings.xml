@@ -237,13 +237,13 @@
     <string name="unlimited_mailboxes">無制限のメールボックス</string>
     <string name="pgp_encryption">PGP 暗号化</string>
     <string name="and_all_upcoming_features">...および今後のすべての機能</string>
-    <string name="monthly_subscription_price">マンスリー サブスクリプション %1$s/月</string>
-    <string name="monthly_subscription_explication">イヤーリー サブスクリプションにすると 2 か月分を節約できます。最も経済的です</string>
-    <string name="yearly_subscription_price">イヤーリー サブスクリプション %1$s/年</string>
+    <string name="monthly_subscription_price">月額サブスクリプション %1$s/月</string>
+    <string name="monthly_subscription_explication">年額サブスクリプションにすると 2 か月分を節約できます。最も経済的です</string>
+    <string name="yearly_subscription_price">年額サブスクリプション %1$s/年</string>
     <string name="yearly_subscription_explication">月に ☕ 一杯分の値段であなたの力を強化できます</string>
     <string name="upgrade_now">今すぐアップグレード</string>
     <string name="simplelogin_for_enterprise">SimpleLogin for Enterprise</string>
-    <string name="simplelogin_for_enterprise_title">あなたの企業に SimpleLogin を採用してください</string>
+    <string name="simplelogin_for_enterprise_title">あなたの企業に SimpleLogin を採用しませんか</string>
     <string name="dedicated_server">独立したサーバーとデータベース</string>
     <string name="dashboard_to_manage">チームのアカウントを管理するダッシュボード</string>
     <string name="single_sign_on">シングルサインオン（SAML または OAuth2）</string>
@@ -273,7 +273,7 @@
     <!-- FAQ -->
     <string name="frequently_asked_questions">よくある質問</string>
     <string name="faq_1_question">そもそもエイリアスとは何ですか？</string>
-    <string name="faq_1_answer">エイリアスは転送用メールアドレスとほとんど同じ意味です。エイリアスに送信されたすべてのメールは受信トレイに転送されます。\n\nさらに SimpleLogin では、エイリアスからメールを送ることもできます。\n\nメールの相手からすると、エイリアスはあなたのメールアドレスと同じです。</string>
+    <string name="faq_1_answer">エイリアスは転送用メールアドレスとほとんど同じ意味です。エイリアスに送信されたすべてのメールは受信トレイに転送されます。\n\nさらに SimpleLogin では、エイリアスからメールを送ることもできます。\n\nメールの相手からすると、エイリアスはあなたのメールアドレスと同じです</string>
     <string name="faq_2_question">私の使っているメールサービスでは、「+」を使って無制限にメールアドレスを作成できます。それでも SimpleLogin が必要ですか？</string>
     <string name="faq_2_answer">Gmail やその他複数のメールサービスでサポートされているサブアドレスは、メールアドレスに「+」を追加することで新しいメールアドレスを作成するものです。あなたのメールアドレスが name@protonmail.com の場合、Facebook 用に name+facebook@protonmail.com、Groupon 用に name+groupon@protonmail.com などを作成することができます。\n\nこれらには以下の欠点があります\n- 「+」つきのメールアドレスから返信できないため、本当のアドレスから返信する必要があること\n- 「+」つきのメールアドレスの登録を拒否するウェブサイトがあること\n- 「+」つきのメールアドレスではあなたのプライバシーは保護されないこと:「+」部分を削ると本当のメールアドレスがわかってしまうため、「+」つきのメールアドレスが流出するとあなたの本当のメールアドレスが攻撃者に推測される可能性があります。そのため、have i been pwned のようなウェブサイトで流出を確認するには両方のメールアドレスを確認する必要があります\n- 「+」部分を削ることで、広告会社があなたの利用するサービスを簡単にリンクできること\n\nSimpleLogin エイリアスにはこのような欠点はありません\n また、SimpleLogin はビジネスにも役立ちます。独自ドメインを持っていて、GSuite のような本格的なサービスにお金を払いたくない場合、ドメインを SimpleLogin に追加して contact@my-domain.com や partner@my-domain.com のようなエイリアスを作成できます。実際に私たちのビジネスメール（@simplelogin.io）もエイリアスです</string>
     <string name="faq_3_question">SimpleLogin と他のメール転送サービスの違いは何ですか？</string>
