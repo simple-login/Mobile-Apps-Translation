@@ -196,7 +196,7 @@
 "send_new_activation_code" = "「%@」に新しいアクティベーションコード送信しました";
 "check_new_verification_code" = "受信トレイで新しい認証コードを確認してください";
 // Time
-"created_on" = "作成日:";
+"created_on" = "作成:";
 "just_now" = "直前";
 "minutes_ago" = "秒前";
 "day_ago" = "日前";
