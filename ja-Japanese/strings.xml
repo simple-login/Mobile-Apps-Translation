@@ -233,7 +233,7 @@
     <string name="unlimited_custom_domains">無制限のカスタムドメイン</string>
     <string name="unlimited_custom_domains_explication">あなたのドメインを使用した contact@your-domain.com のようなエイリアスを作成できます</string>
     <string name="catch_all_domain">Catch-all（ワイルドカード）ドメイン</string>
-    <string name="50_directories">50 ディレクトリ/ユーザー名</string>
+    <string name="50_directories">50 ディレクトリー/ユーザー名</string>
     <string name="unlimited_mailboxes">無制限のメールボックス</string>
     <string name="pgp_encryption">PGP 暗号化</string>
     <string name="and_all_upcoming_features">...および今後のすべての機能</string>
