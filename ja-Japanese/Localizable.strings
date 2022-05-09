@@ -175,7 +175,7 @@
 "set_api_key" = "API キーを設定";
 "change_api_url" = "API URL を変更";
 "change_api_url_warning" = "あなたのサーバーで SimpleLogin をホストしていない場合、API URL を変更しないでください。ほとんどの場合、このフィールドはデフォルトのままで使用します";
-"change_api_url_default_value" = "The default value is https://app.simplelogin.io";
+"change_api_url_default_value" = "デフォルトの値は https://app.simplelogin.io です";
 "current_api_url" = "現在の API URL";
 "empty_api_url" = "API URL が空欄です";
 "apply_change" = "変更を適用";
