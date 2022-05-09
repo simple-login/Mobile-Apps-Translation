@@ -198,7 +198,7 @@
     <string name="send_new_activation_code">「%1$s」に新しいアクティベーションコード送信しました</string>
     <string name="check_new_verification_code">受信トレイで新しい認証コードを確認してください</string>
     <!-- Time -->
-    <string name="created_on">作成日:</string>
+    <string name="created_on">作成:</string>
     <string name="just_now">直前</string>
     <string name="minutes_ago">秒前</string>
     <string name="day_ago">日前</string>
