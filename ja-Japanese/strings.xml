@@ -220,7 +220,7 @@
     <string name="error_fetching_receipt">明細のフェッチに失敗しました: %1$s ヘルプが必要な場合は連絡してください</string>
     <string name="subscription_thank_you">私たちのサービスをご利用いただきありがとうございます</string>
     <string name="subscription_thank_you_explication">アプリがすぐにリフレッシュされます</string>
-    <string name="got_it">わかりました</string>
+    <string name="got_it">了解</string>
     <!-- IAP -->
     <string name="iap_page_title">メール保護に遅すぎることはありません</string>
     <string name="current_superpowers">今できること</string>
